@@ -1,0 +1,332 @@
+fileFormatVersion: 2
+guid: 169459bdc54cc2645bd2d12fd198396e
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Alcaldia
+    second: {fileID: 2100000, guid: 8d4a40534cd30c448b6e7d47e3cb0211, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Banco
+    second: {fileID: 2100000, guid: b1a869614ca090343b341188ce05302b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Banco caja social
+    second: {fileID: 2100000, guid: 58a21fd14bf643e448d9c2941a145cd3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Barda techo mar
+    second: {fileID: 2100000, guid: f3f17d58a2f69e04494ffcaa205702af, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Casa1
+    second: {fileID: 2100000, guid: 5d811e9fd4133b446abd70a5c5fc78b6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Casa11
+    second: {fileID: 2100000, guid: 01a76f2fe083b664581098e51870aea0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Casa12
+    second: {fileID: 2100000, guid: 5ba0d63a078834c40a8088ee7e12e755, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Casa13
+    second: {fileID: 2100000, guid: c439da33b5a134e4693e5933377cb8e5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Casa3
+    second: {fileID: 2100000, guid: 7bab0ffef6843b14fb9dfaabcc13fdea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Casa4
+    second: {fileID: 2100000, guid: 385eadc94196a504eae228da05aa7377, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Casa5
+    second: {fileID: 2100000, guid: 7dbec430f96381e4ba12ec2a95843301, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Casa6_7
+    second: {fileID: 2100000, guid: b1a74bd3424686a4699acc334800a572, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Casa8
+    second: {fileID: 2100000, guid: 7cd0c9baddcc34d4b8788f869bd06912, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Casa9_10
+    second: {fileID: 2100000, guid: fdd3be5dac60a6547964f17fe4c92b6d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cuadro10
+    second: {fileID: 2100000, guid: 7afb6bb18de172c458dac02f60571a82, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cuadro11
+    second: {fileID: 2100000, guid: 45f428e061bf949418dad30d7a575dc5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cuadro12
+    second: {fileID: 2100000, guid: 0ddd94480ae157b4dbcfaf5cd0dc4014, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cuadro2
+    second: {fileID: 2100000, guid: 6fa1415731e15594c88af6946733a97e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cuadro5
+    second: {fileID: 2100000, guid: b10b8f653734e2e449a9631cfbb9076b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cuadro6
+    second: {fileID: 2100000, guid: e90d6a6f8865360448a9176517694853, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cuadro7
+    second: {fileID: 2100000, guid: b1813d689a1a9b347aecebf1ff6b5490, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: EstatuaCara
+    second: {fileID: 2100000, guid: a48253226588a9c44b43339104df5f16, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: EstatuaJoseMaria
+    second: {fileID: 2100000, guid: 5e1e2c6a9490c8e4a8c27b5252ea79b6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: EstatuaPiedra
+    second: {fileID: 2100000, guid: 595c2d1f117a3a34686d5e821de2e405, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Estatuacara2
+    second: {fileID: 2100000, guid: 65d20a6c322047a4da9899ca1850277f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fuente
+    second: {fileID: 2100000, guid: 0239226bd13c7b34c8f70cdd943b73b4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass
+    second: {fileID: 2100000, guid: 271350bccff6920458e4375f6470c2f9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Iglesia
+    second: {fileID: 2100000, guid: 63b8ca6a8984ec445952336301ab988a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Kokorico
+    second: {fileID: 2100000, guid: 0c347538683ad0b4eac6a2abd50950f2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Madranza
+    second: {fileID: 2100000, guid: 56575ba3318b20843abe46f07f3a0ae3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Muro
+    second: {fileID: 2100000, guid: 200c47650c57f80478ba9408379f19c7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MurosNegros
+    second: {fileID: 2100000, guid: 86d7428ee3e10ee46906a1910beb4e73, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Piedra
+    second: {fileID: 2100000, guid: 7f1632efffdbf154496ee287cca4b67d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PisoPrincipal
+    second: {fileID: 2100000, guid: 4f2d29636ee5a964f8fb447bbaf6b3e3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Puente madera
+    second: {fileID: 2100000, guid: a76dc31e52597e940b6e3cc1d37c51a4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Rampa
+    second: {fileID: 2100000, guid: 57ba1f2d4c6ec224a80abc59bba3196a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Rojo
+    second: {fileID: 2100000, guid: 94985c7461a67b04b91a9e842c089eb4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Suelo
+    second: {fileID: 2100000, guid: 6b4451d52ed78a148be79f83a8eab236, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Techo mar
+    second: {fileID: 2100000, guid: c8883d7c23d7046478c42ca58eff74a7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tree
+    second: {fileID: 2100000, guid: c6a83df024920f94ab026ac145ea8d83, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: VitralVirgen
+    second: {fileID: 2100000, guid: 9d50901256b322b44845e3eaff1aecfa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: VitralVirgen2
+    second: {fileID: 2100000, guid: fd03424ddac41bd458da7fec17893b04, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: caballo
+    second: {fileID: 2100000, guid: 0096b8600a16c4743beae7b6a78840c9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: casa2
+    second: {fileID: 2100000, guid: cc8f168387333d8448274cdefaa87736, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: zotano
+    second: {fileID: 2100000, guid: 0fe2a539e6c6be245bcdc926e6ff5f6d, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

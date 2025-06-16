@@ -10086,28 +10086,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1225964133}
   m_CullTransparentMesh: 1
---- !u!64 &1232692049
-MeshCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1514943989}
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_IsTrigger: 0
-  m_ProvidesContacts: 0
-  m_Enabled: 1
-  serializedVersion: 5
-  m_Convex: 0
-  m_CookingOptions: 30
-  m_Mesh: {fileID: 8877104086066509410, guid: 169459bdc54cc2645bd2d12fd198396e, type: 3}
 --- !u!1 &1255638673
 GameObject:
   m_ObjectHideFlags: 0
@@ -12032,7 +12010,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 169459bdc54cc2645bd2d12fd198396e, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -1.54
+      value: -2
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 169459bdc54cc2645bd2d12fd198396e, type: 3}
       propertyPath: m_LocalPosition.z
@@ -12071,7 +12049,8 @@ PrefabInstance:
       value: Parque rionegro3
       objectReference: {fileID: 0}
     m_RemovedComponents: []
-    m_RemovedGameObjects: []
+    m_RemovedGameObjects:
+    - {fileID: 8602101118960347331, guid: 169459bdc54cc2645bd2d12fd198396e, type: 3}
     m_AddedGameObjects: []
     m_AddedComponents:
     - targetCorrespondingSourceObject: {fileID: 3976199185855175325, guid: 169459bdc54cc2645bd2d12fd198396e, type: 3}
@@ -12143,9 +12122,6 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: -7862923092025195827, guid: 169459bdc54cc2645bd2d12fd198396e, type: 3}
       insertIndex: -1
       addedObject: {fileID: 64319784}
-    - targetCorrespondingSourceObject: {fileID: 8602101118960347331, guid: 169459bdc54cc2645bd2d12fd198396e, type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 1232692049}
     - targetCorrespondingSourceObject: {fileID: -7591526954526779085, guid: 169459bdc54cc2645bd2d12fd198396e, type: 3}
       insertIndex: -1
       addedObject: {fileID: 1058626767}
@@ -12241,11 +12217,6 @@ GameObject:
 --- !u!1 &1514943988 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -7591526954526779085, guid: 169459bdc54cc2645bd2d12fd198396e, type: 3}
-  m_PrefabInstance: {fileID: 1514943976}
-  m_PrefabAsset: {fileID: 0}
---- !u!1 &1514943989 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 8602101118960347331, guid: 169459bdc54cc2645bd2d12fd198396e, type: 3}
   m_PrefabInstance: {fileID: 1514943976}
   m_PrefabAsset: {fileID: 0}
 --- !u!1 &1514943990 stripped
